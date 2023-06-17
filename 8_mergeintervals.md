@@ -4,7 +4,7 @@ Brute force.
 * sort the intervals by start time.
 * for every interval i, check if it overlaps with any interval j.
 * if it does, merge the two intervals.
-* if it doesn't, add it to the result.
+* if it doesn't, add it to the result. <br>
 O(NlogN) Time O(N) Space Solution
 * Check for invalid case.
 * Sort the intervals by start time.
